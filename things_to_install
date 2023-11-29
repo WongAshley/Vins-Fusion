@@ -1,0 +1,5 @@
+sudo apt-get install libopencv-dev
+sudo apt install libceres-dev
+
+
+
