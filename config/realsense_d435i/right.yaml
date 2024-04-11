@@ -2,7 +2,7 @@
 ---
 model_type: PINHOLE
 camera_name: camera
-image_width: 640
+image_width: 848
 image_height: 480
 distortion_parameters:
    k1: 0.0
